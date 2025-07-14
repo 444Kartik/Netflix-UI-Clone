@@ -20,7 +20,7 @@ This project is a Netflix Landing Page Clone created using **HTML** and **CSS** 
 
 ---
 
-## 🚀 Functional Highlights
+## Functional Highlights
 
 ### 1. **CSS Only FAQ Toggle**
 - Each FAQ uses a hidden checkbox and label combination to toggle the answer display without JavaScript.
@@ -48,10 +48,9 @@ This project is a Netflix Landing Page Clone created using **HTML** and **CSS** 
 
 ![Netflix Clone Preview](Preview.png)
 
----
-
 ## 📁 Folder Structure
 
+```
 Netflix-Clone/
 │
 ├── assets/
@@ -71,11 +70,8 @@ Netflix-Clone/
 ├── index.html                # Main HTML file
 ├── style.css                 # Main CSS file
 └── README.md                 # Project documentation
+```
 
-
----
-
-## 📌 How to Run This Project
 
 ## 📌 How to Run This Project
 
