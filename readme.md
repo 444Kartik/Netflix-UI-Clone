@@ -76,7 +76,7 @@ Netflix-Clone/
 ## How to Run This Project
 
 1. Visit the live website deployed on **GitHub Pages**.
-2. **[Click Here to View Live Project](https://444kartik.github.io/Netflix-UI-Clone/)** 
+2. **[Click Here to View Live Project](https://netflix-ui-clone-kartik-sharmas-projects-00c4c29f.vercel.app/)** 
 3. Explore the fully responsive Netflix Landing Page Clone directly from your browser — no setup required!
 
 
