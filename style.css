@@ -80,6 +80,20 @@ body {
     }
 }
 
+
+#email-btn,
+.emailSection .email-container2 .email2button,
+nav .right-nav-elements .hover-bg{
+    transition: all 250ms;
+}
+
+#email-btn:hover,
+.emailSection .email-container2 .email2button:hover,
+nav .right-nav-elements .hover-bg:hover{
+    background-color: #c11119;
+}
+
+
 .footer-select,
 .main nav .right-nav-elements .select {
         width: 7.75rem;
